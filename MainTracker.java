@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main {
+public class MainTracker {
 	
 	private ArrayList<Grade> GradeValue = new ArrayList<Grade>();
 	public ArrayList<Grade> returnGrade(){
