@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class MainTracker {
 	
 	public static ArrayList<Float> Expenses = new ArrayList<Float>();
 	public static ArrayList<String> Product = new ArrayList<String>();
